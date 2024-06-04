@@ -1,6 +1,7 @@
 initials = """
 TTTTT W   W
   T   W   W
+  T   W   W
   T   W W W
   T   WW WW
   T   WW WW
